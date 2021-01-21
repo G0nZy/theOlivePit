@@ -12,13 +12,20 @@ body {
 
             font-size: 54px;
 
+               
+            
+
 }
 
 
 #theButton {
 
             margin: 0 auto;
-            width: 50%;
+            width: 0%;
+
+            display: block;
+                        
+                         
 
 
 
@@ -28,5 +35,26 @@ body {
 
         text-align: center;
 
+
+}
+
+
+#mainLogo {
+
+
+                       /* size: 10px; */
+                        /* float: inline-end; */
+                        display: block;
+                         margin-left: auto;
+                        margin-right: auto;
+                         
+                        
+
+}
+
+
+head{
+
+        color: black;
 
 }
