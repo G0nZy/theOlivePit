@@ -25,6 +25,7 @@ body {
 
             display: block; */
             text-align: center;
+            /* background-color: aquamarine; */
                         
                          
 
@@ -80,5 +81,31 @@ header{
 
                 color:  rgba(255, 255, 255, 0.897);
 
+
+}
+
+
+#hours1 {
+
+
+                        text-align: center;
+                        background-color: forestgreen;
+
+}
+
+
+#call {
+
+
+                float: left;
+                color: blueviolet;
+                font-size: larger;
+
+}
+
+#location{
+
+
+                float: right;
 
 }
