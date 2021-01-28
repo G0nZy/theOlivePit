@@ -133,12 +133,12 @@ header{
 
 
 
-
+/* 
 * {
         margin:0;
         padding:0;
         border:0;
-      }
+      } */
       
       @keyframes slide {
         from { left: 100%;}
